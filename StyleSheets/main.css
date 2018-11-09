@@ -47,3 +47,20 @@
   width: 100%;
   margin-bottom: 5px;
 }
+
+.sg-btn {
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    padding: 7px 14px;
+    font-size: 16px;
+    cursor: pointer;
+    border-color: #192837;
+    color: #192837;
+    border-radius: 5px;
+}
+
+.sg-btn:hover {
+    background-color: #192837;
+    color: white;
+}
