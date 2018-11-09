@@ -1,0 +1,36 @@
+.APOD-header {
+  margin: 20px 10px;
+  max-height: 100px;
+}
+
+.APOD-header img {
+  float: left;
+  height: 3em;
+}
+
+.APOD-header h1 {
+  position: left;
+  display: block;
+}
+
+.img-responsive {
+  max-width: 100%;
+  height: auto;
+  max-height: 200px;
+  object-fit: cover;
+}
+
+.img-thumbnail p {
+  margin: 0px;
+}
+
+.oldAPod {
+  margin-bottom: 20px;
+}
+
+.oldAPod p {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
