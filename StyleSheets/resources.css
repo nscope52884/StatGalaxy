@@ -1,0 +1,11 @@
+.sg-resource img {
+  max-width: 200px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sg-resource .row {
+  padding: 0 15px;
+}
