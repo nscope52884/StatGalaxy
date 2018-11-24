@@ -1,0 +1,23 @@
+{
+  "name": "statgalaxy",
+  "version": "1.0.0",
+  "description": "Stat galaxy is the home for your galaxy visualized",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nscope52884/StatGalaxy.git"
+  },
+  "author": "Nick Scope",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nscope52884/StatGalaxy/issues"
+  },
+  "homepage": "https://github.com/nscope52884/StatGalaxy#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.1.10"
+  }
+}
